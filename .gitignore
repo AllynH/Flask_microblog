@@ -3,6 +3,7 @@ app/models.pyc
 app/views.pyc
 app/__init__.pyc
 config.pyc
+config.py
 db_repository/versions/
 db_repository/versions/001_migration.pyc
 db_repository/versions/002_migration.pyc
